@@ -17,10 +17,10 @@
 		</nav>
 		<div class="container">
         		<h1>Nancy Wallace</h1> <h3> <a href="mailto:wallace.nancy@courrier.uqam.ca">[Nom_de_famille].[Prénom]@courrier.uqam.ca</a></li> </h3>
-				<p> Langues <p>
-					* Item 1 	Français, parlé et écrit
-					* Item 2	Anglais, parlé et écrit
-				<p> Intérêts de recherche <p>
+				* Item 1 Langues 
+					* Item 1a <h4> 	Français, parlé et écrit<\h4>
+					* Item 1b <h4>	Anglais, parlé et écrit <\h4>
+				* Item 2 Intérêts de recherche <p>
 				<p> <a href="cv-e.html">In English</a><p>
 		</div><!-- /.container -->
 		<footer>
