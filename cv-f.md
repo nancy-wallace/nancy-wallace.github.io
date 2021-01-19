@@ -15,12 +15,16 @@
         		<li><a href="cv-f.html">Curriculum Vitae</a></li>
     		</ul>
 		</nav>
+		<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
 		<div class="container">
         		<h1>Nancy Wallace</h1> <h3> <a href="mailto:wallace.nancy@courrier.uqam.ca">[Nom_de_famille].[Prénom]@courrier.uqam.ca</a></li> </h3>
-				* Item 1 Langues 
-					* Item 1a <h4> 	Français, parlé et écrit<\h4>
-					* Item 1b <h4>	Anglais, parlé et écrit <\h4>
-				* Item 2 Intérêts de recherche <p>
+				<p>* ### Langues 
+					* #### 	Français, parlé et écrit
+					* #### 	Anglais, parlé et écrit <p>
+				<p> * ### Intérêts de recherche <p>
 				<p> <a href="cv-e.html">In English</a><p>
 		</div><!-- /.container -->
 		<footer>
